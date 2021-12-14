@@ -1,4 +1,4 @@
-# bsp
+# bsp / BlueScreenProject
 simply tools using ps1 (powershell scripts)
 
 # Tools: 
@@ -7,3 +7,8 @@ simply tools using ps1 (powershell scripts)
 - Listing all services are running/stopped
 - Rerun specific services (Windows)
 - Futher more
+
+
+# Release Soon:
+
+- BOSD Script
