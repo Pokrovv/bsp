@@ -1,0 +1,1 @@
+Start-Service -Name bits, wuauserv
