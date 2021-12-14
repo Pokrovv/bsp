@@ -1,0 +1,1 @@
+Get-Service | Where-Object {$_.Status -EQ "Stopped"} | Out-File "C:\Users\johshh\Desktop\Work\Dev\shell\bsp\shell\out\Stopped_Services.txt"

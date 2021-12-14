@@ -1,0 +1,1 @@
+Invoke-WebRequest "https://4sysops.com/" | Select-Object -ExpandProperty Content | Out-File "C:\Users\johshh\Desktop\Work\Dev\shell\bsp\shell\out\data\test.html"

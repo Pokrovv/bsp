@@ -1,0 +1,1 @@
+1..254 | ForEach-Object {Test-Connection -ComputerName "192.168.0.$_" -Count 1 -ErrorAction SilentlyContinue} | Out-File "C:\Users\johshh\Desktop\Work\Dev\shell\bsp\shell\out\data\IpScannerAll_results.txt"

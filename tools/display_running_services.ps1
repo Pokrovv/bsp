@@ -1,0 +1,1 @@
+Get-Service | Where-Object {$_.Status -EQ "Running"} | Out-File "C:\Users\johshh\Desktop\Work\Dev\shell\bsp\shell\out\Running_Services.txt"
